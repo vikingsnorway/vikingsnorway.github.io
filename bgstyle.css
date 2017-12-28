@@ -1,0 +1,92 @@
+input {
+font-family: Tahoma;
+font-size: 10px;
+color: #404040;
+text-decoration: none;
+border: 1px solid #232323;
+background: #1d1d1d;
+background-image: url('http://www.gizmo-designs.com/gfx/images/formbg.gif');
+padding-left: 1;
+padding-right: 1;
+padding-top: 1;
+padding-bottom: 1;
+}
+textarea{
+font-family: Tahoma;
+font-size: 10px;
+font-style: normal;
+color: #505050;
+text-decoration: none;
+border: 1px solid #232323;
+background: #1d1d1d;
+padding-left: 1;
+padding-right: 1;
+padding-top: 1;
+padding-bottom: 1;
+}
+
+input.send, forminput.send, .button.send, submit.send, formarea.send {
+font-family: Microsoft Sans Serif;
+font-size: 10px;
+font-style: normal;
+color: #505050;
+text-decoration: none;
+border: 0px solid #232323;
+background: #1d1d1d;
+padding-left: 1;
+padding-right: 1;
+padding-top: 1;
+padding-bottom: 1;
+}
+
+
+.button { 
+font-family: Tahoma;
+font-size: 10px;
+font-style: normal;
+color: #505050;
+text-decoration: none;
+border: 1px solid #232323;
+background: #1d1d1d;
+padding-left: 1;
+padding-right: 1;
+padding-top: 1;
+padding-bottom: 1;
+ } .forminput { 
+font-family: Tahoma;
+font-size: 10px;
+color: #404040;
+text-decoration: none;
+border: 1px solid #232323;
+background: #1d1d1d;
+background-image: url('http://www.gizmo-designs.com/gfx/images/formbg.gif');
+padding-left: 1;
+padding-right: 1;
+padding-top: 1;
+padding-bottom: 1;
+ } formarea { 
+font-family: Tahoma;
+font-size: 10px;
+font-style: normal;
+color: #505050;
+text-decoration: none;
+border: 1px solid #232323;
+background: #1d1d1d;
+padding-left: 1;
+padding-right: 1;
+padding-top: 1;
+padding-bottom: 1;
+ } 
+submit { 
+font-family: Tahoma;
+font-size: 10px;
+font-style: normal;
+color: #505050;
+text-decoration: none;
+border: 1px solid #232323;
+background: #1d1d1d;
+padding-left: 1;
+padding-right: 1;
+padding-top: 1;
+padding-bottom: 1;
+ } 
